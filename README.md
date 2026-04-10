@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yashodara Athapaththu</h1>
 <h3 align="center">A passionate Software developer from Sri 1lanka</h3>
 
-- 🌱 I’m currently learning **MERN**
+- 🌱 I’m currently learning **MLOPS**
 
 - 📫 How to reach me **y.k.athapaththu@gmail.com**
 
